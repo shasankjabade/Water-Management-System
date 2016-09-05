@@ -8,15 +8,15 @@ For details about the project read the project report survey in the project fold
 
 Below is a brief of the project
 
-1. Project design 
+### Project design 
 
 ![](https://i.imgur.com/dxRhXKs.jpg)
 
-2. Project Arcitecture 
+### Project Arcitecture 
 
 ![](http://i.imgur.com/8CUbGjI.jpg)
 
-3. Live project 
+### Live project 
 
 ![](https://i.imgur.com/rVpaunG.jpg)
 
