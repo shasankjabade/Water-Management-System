@@ -20,4 +20,4 @@ Below is a brief of the project
 
 ![](https://i.imgur.com/rVpaunG.jpg)
 
-Write at surendharreddy.me@gmail.com for more details about project
+Write at jabadeshasankjabade@gmail.com for more details about project
